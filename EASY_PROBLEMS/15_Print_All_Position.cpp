@@ -1,11 +1,11 @@
 /*
 Print All The Position Of Particular Element
 {5,5,6,5,2,7}
-5 = > 0 0 3
+5 = > 0 1 3
 */
 #include<iostream>
 using namespace std;
-void printAllIndex(int ar,size,e,int i=0){
+void printAllIndex(int ar[],int size,int e,int i=0){
     if(i==size)
         return;
     if(ar[i]==e)
