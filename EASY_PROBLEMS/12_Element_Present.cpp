@@ -1,3 +1,6 @@
+/*
+Check Whether The Element Is Present Or Not
+*/
 #include<iostream>
 using namespace std;
 //Working From Right To Left
