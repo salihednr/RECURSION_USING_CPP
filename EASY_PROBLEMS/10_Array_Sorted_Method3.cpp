@@ -1,7 +1,7 @@
 /*
 Check Whether Array Is Sorted Or Not Using Recursion
 Method -3
-Calling From Left To Right But Working From Right To Left
+Working From End
 */
 #include<iostream>
 using namespace std;
